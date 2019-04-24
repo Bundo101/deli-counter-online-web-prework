@@ -9,5 +9,5 @@ def line(katz_deli)
       queue.push("#{index + 1}. #{name}")
   end
   puts queue
-end
+  end
 end
