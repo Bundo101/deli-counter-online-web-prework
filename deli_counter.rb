@@ -11,4 +11,4 @@ def line(deli)
       i += 1
     end
   end
-  puts 
+  puts "The line is currently: 
