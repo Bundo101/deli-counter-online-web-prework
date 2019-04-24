@@ -11,5 +11,5 @@ def line(deli)
       i += 1
     end
   end
-  puts "The line is currently: #{persons.join(' ')}"
+  puts "The line is currently: #{customers.join(' ')}"
 end
