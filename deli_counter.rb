@@ -10,4 +10,5 @@ def line(katz_deli)
       queue.push("#{i + 1}. #{katz_deli[i]}")
       i += 1
     end
+  end
 end
