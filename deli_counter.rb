@@ -15,10 +15,8 @@ def line(katz_deli)
 end
 
 def take_a_number(katz_deli, name)
-  if katz_deli.length == 0
-    puts "Welcome, #{name}. you are number 1 in line."
-    queue
-  else
+  puts "Welcome, #{name}. you are number 1 in line."
+    
     
   end
 end
