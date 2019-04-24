@@ -7,5 +7,5 @@ def line(katz_deli)
     i = 0
     queue = []
     while i < katz_deli.length do
-      
+      queue.push("")
 end
