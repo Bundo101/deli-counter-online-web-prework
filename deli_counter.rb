@@ -7,4 +7,4 @@ def line(deli)
     i = 0
     customers = []
     while i < deli.length do 
-      customers.push 
+      customers.push ()
