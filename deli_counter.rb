@@ -12,3 +12,4 @@ def line(deli)
     end
   end
   puts "The line is currently: #{persons.join(' ')}"
+end
