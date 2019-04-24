@@ -6,6 +6,6 @@ def line(katz_deli)
   else
     i = 0
     queue = []
-    while i < katz_deli.length
+    while i < katz_deli.length do
       
 end
