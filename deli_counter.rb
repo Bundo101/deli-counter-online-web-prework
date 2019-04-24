@@ -7,5 +7,5 @@ def line(deli)
     i = 0
     customers = []
     while i < deli.length do 
-      customers.push ("#{i + 1}. #{deli[i]")
-      
+      customers.push ("#{i + 1}. #{deli[i]}")
+      i += 1
