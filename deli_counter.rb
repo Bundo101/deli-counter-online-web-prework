@@ -5,6 +5,7 @@ def line(katz_deli)
     puts "The line is currently empty."
   else
     i = 0
+    queue = []
     while i < katz_deli.length
       
 end
