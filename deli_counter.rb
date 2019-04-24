@@ -6,4 +6,4 @@ def line(deli)
   else
     i = 0
     customers = []
-    
+    while i < 
