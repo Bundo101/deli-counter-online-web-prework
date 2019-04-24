@@ -8,3 +8,4 @@ def line(deli)
     customers = []
     while i < deli.length do 
       customers.push ("#{i + 1}. #{deli[i]")
+      
