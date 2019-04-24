@@ -10,3 +10,5 @@ def line(deli)
       customers.push ("#{i + 1}. #{deli[i]}")
       i += 1
     end
+  end
+  puts 
