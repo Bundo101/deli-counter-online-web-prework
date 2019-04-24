@@ -6,5 +6,6 @@ def line(katz_deli)
   else
     queue = "The line is currently: "
     katz_deli.each_with_index do |name, index|
+      
   end
 end
