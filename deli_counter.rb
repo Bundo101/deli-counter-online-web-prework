@@ -8,5 +8,6 @@ def line(katz_deli)
     queue = []
     while i < katz_deli.length do
       queue.push("#{i + 1}. #{katz_deli[i]}")
-      
+      i += 1
+    end
 end
