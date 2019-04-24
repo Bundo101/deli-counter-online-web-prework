@@ -9,3 +9,4 @@ def line(deli)
     while i < deli.length do 
       customers.push ("#{i + 1}. #{deli[i]}")
       i += 1
+    end
